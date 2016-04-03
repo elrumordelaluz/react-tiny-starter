@@ -1,6 +1,6 @@
 # React Tiny Starter
 
-A pretty tiny **React** starter files using **Webpack**
+A pretty tiny **React** starter files using **Webpack** and **css-modules**
 
 1. Clone this respository
     
