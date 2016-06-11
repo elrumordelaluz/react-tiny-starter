@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-// import appStyles from './App.css';
-var css = require('../styles.css');
+import appStyles from './App.css';
 
 class App extends Component {
   render () {
